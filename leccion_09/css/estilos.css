@@ -1,0 +1,17 @@
+h1{
+    color:rgb(34,34,50);
+    text-align: center;
+}
+h2{
+    color:rgb(34,34,60);
+
+}
+p{
+    color:rgb(10,140,70);
+}
+div{
+    border: 10px solid rgb(10,100,150);
+    background-color: rgb(8,80,250);
+    text-align: center;
+
+}
