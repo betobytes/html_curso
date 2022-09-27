@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(22, 23, 28);
+}
+h1{
+    font-family:monospace;
+    text-align:center;
+    color:rgb(0,255,90);
+    border: 1px solid rgb(0,255,100);
+    margin: 40px 150px 40px 150px;
+    
+}
+p{
+    text-align: center;
+    margin: auto;
+    border: auto;
+    color:aliceblue;
+}
+
+a:hover{
+
+    text-align: center;
+    margin: 40px 550px 40px 550px;
+    color: rgb(50,50,55);
+    text-decoration: None;
+
+}
+
+a:visited, a:link{
+    border: 1px solid rgb(2,255,200);
+    text-align: center;
+    margin: 40px 550px 40px 550px;
+    background-color: rgb(2,255,200);
+    text-decoration: None;
+    padding: 15px 25px;
+    display:inline-block;
+}
+
+a:active{   
+    border: 1px solid rgb(2,255,200);
+    color:rgb(2,255,200);
+    text-align: center;
+    margin: 40px 550px 40px 550px;
+    background-color: rgb(22, 23, 28);
+    text-decoration: None;
+    padding: 15px 25px
+
+}
