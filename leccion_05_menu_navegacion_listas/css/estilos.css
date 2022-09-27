@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(22,25,33);
+}
+h1{
+    font-size: 30px;
+    font-family: monospace;
+    color:rgb(20,253,255);
+}
+ul{
+    list-style-type:None;
+    background-color: rgb(2,253,100);
+    overflow: hidden;
+    margin:0;
+    padding:0;
+
+}
+li{
+    float: left;
+
+}
+li a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display:block;
+    color:rgb(22,25,33);
+    padding:15px;
+    text-decoration: None;
+}
+li a:hover{
+    background-color:rgb(1,99,48);
+    color:rgb(20,253,255);
+}
